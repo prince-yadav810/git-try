@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 to check the conflect 
+=======
+sk jkjlasnd
+>>>>>>> branch-2

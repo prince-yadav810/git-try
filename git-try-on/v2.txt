@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 wdwdwddwa
 asdfjk asndfm
 jnhaskdmf 
 aksdb kl,
+======
+sb akj
+b2 changes 
+>>>>>>> branch-2

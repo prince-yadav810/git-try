@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 main branch form main
 g asgsa
+=======
+what is up!!
+>>>>>>> branch-2
