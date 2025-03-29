@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wdwdwddwa
+=======
+sb akj f
+b2 changes awd
+>>>>>>> branch-2.1
